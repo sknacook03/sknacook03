@@ -1,4 +1,4 @@
-Hi 👋 My name is Pongwit Lehawanit
+Hi 👋 My name is Phongwit Lehawanit
 ==================================
 
 Student
