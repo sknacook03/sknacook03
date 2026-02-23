@@ -2,7 +2,7 @@
 
 ### Student & Full-stack Developer
 * 🌍  I'm based in Nakhon Ratchasima, Thailand
-* ✉️  You can contact me at [pongwit27@gmail.com](mailto:pongwit27@gmail.com)
+* ✉️  You can contact me at [phongwit.le@gmail.com](mailto:phongwit.le@gmail.com)
 * 🧠  I'm currently focusing on **Next.js, NestJS, and PostgreSQL**
 
 <a href="https://www.github.com/sknacook03" target="_blank" rel="noreferrer">
